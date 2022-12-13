@@ -1,9 +1,4 @@
-# Advent of Code ⭐️
-
-[![Stars collected](https://shields.io/static/v1?label=stars%20collected&message=129&color=yellow)]()
-[![codecov](https://codecov.io/gh/marcelblijleven/adventofcode/branch/master/graph/badge.svg?token=jZ2TgfyltM)](https://codecov.io/gh/marcelblijleven/adventofcode)
-[![tests](https://github.com/marcelblijleven/adventofcode/actions/workflows/tests.yaml/badge.svg)](https://github.com/marcelblijleven/adventofcode)
-[![version](https://img.shields.io/github/v/release/marcelblijleven/adventofcode.svg)](https://github.com/marcelblijleven/adventofcode/releases)
+# Advent of Code
 
 ![advent of code](./image_dark.svg#gh-dark-mode-only)
 ![advent of code](./image_light.svg#gh-light-mode-only)
@@ -141,7 +136,6 @@ The `generate-readme` script dynamically searches for all solutions and writes t
 When a solution file has a function called `part_one`, it adds a star. When it has a function called `part_two`, it adds another
 star. The `star counter` badge at the top of the README.md file is then updated with the total amount of stars found.
 
-This script is only used in the Github workflow `update_readme.yml`, but can be run locally to using `generate-readme`
 
 ### clean-repo
 
