@@ -1,8 +1,5 @@
 # Advent of Code
 
-![advent of code](./image_dark.svg#gh-dark-mode-only)
-![advent of code](./image_light.svg#gh-light-mode-only)
-
 Collection of my Advent of Code solutions in an overkill project setup 👻🎄.
 
 ## Features ✨
