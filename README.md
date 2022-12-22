@@ -114,6 +114,7 @@ session cookie is stored in `.session`. To get this value:
 
 Example:
 
+python -m venv 
 ```shell
 (venv) add-day 2015 14
 ```
