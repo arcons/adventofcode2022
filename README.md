@@ -114,7 +114,14 @@ session cookie is stored in `.session`. To get this value:
 
 Example:
 
-python -m venv 
+```shell
+python -m venv src/adventofcode
+ source src/adventofcode/bin/activate
+
+```
+
+Run the day
+
 ```shell
 (venv) add-day 2015 14
 ```
@@ -133,7 +140,6 @@ Input data already exists for year 2015 day 14, skipping download
 The `generate-readme` script dynamically searches for all solutions and writes them to the README.md file.
 When a solution file has a function called `part_one`, it adds a star. When it has a function called `part_two`, it adds another
 star. The `star counter` badge at the top of the README.md file is then updated with the total amount of stars found.
-
 
 ### clean-repo
 
